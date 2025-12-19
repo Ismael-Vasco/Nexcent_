@@ -478,6 +478,9 @@ header{
     flex-direction: row;
     justify-content: center;
 }
+#target:hover{
+    transform: scale(1.2);
+}
 #p-right{
     padding: 60px;
 }
